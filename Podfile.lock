@@ -1,0 +1,16 @@
+PODS:
+  - AutoCompletion (1.2.1)
+
+DEPENDENCIES:
+  - AutoCompletion
+
+SPEC REPOS:
+  trunk:
+    - AutoCompletion
+
+SPEC CHECKSUMS:
+  AutoCompletion: ef2aef06b77e8f82dc49bff7e16860eacd891249
+
+PODFILE CHECKSUM: 03dcfcd255abb95baa5f495f9d7cc4f7f9cd3324
+
+COCOAPODS: 1.11.2
